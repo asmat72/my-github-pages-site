@@ -1,8 +1,8 @@
 # my-github-pages-site
 
 ### Host a Static Website with GitHub Pages
-### ✅ Objective
-      Deploy a simple static HTML website using GitHub Pages.
+### Objective
+      Deploy a simple static HTML website using GitHub Pages. Clone the repository: git clone https://github.com/asmat72/my-github-pages-site.git
 ### 🛠️ Tools Used
       - GitHub
       - GitHub Pages
