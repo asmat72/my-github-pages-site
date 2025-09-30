@@ -7,8 +7,8 @@
       - GitHub
       - GitHub Pages
 ### 📦 Deliverables
-      - ✅ A public GitHub repository
-      - ✅ A live website link hosted via GitHub Pages
+      - A public GitHub repository
+      - A live website link hosted via GitHub Pages
 ### 🚀 Step-by-Step Guide
 #### Create `index.html`
       - This is the main HTML file for your website.
