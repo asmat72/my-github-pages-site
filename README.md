@@ -23,4 +23,4 @@ Enable GitHub Pages:
       - After enable Github page and GitHub will generate a live link like:
              https://asmat72.github.io/my-github-pages-site/
 ## Final Result:
-      - Once deployed, your site will be live and accessible to anyone via the GitHub Pages link. You can continue customizing it with more HTML, CSS, images, and even JavaScript.
+- Once deployed, your site will be live and accessible to anyone via the GitHub Pages link. You can continue customizing it with more HTML, CSS, images, and even JavaScript.
